@@ -1,0 +1,4 @@
+status:
+    untracked 
+    staged
+    unstaged
